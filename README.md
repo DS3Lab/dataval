@@ -1,5 +1,7 @@
 # Data Valuation
 
+[![](https://tinyurl.com/greenai-pledge)](https://github.com/daviddao/green-ai)
+
 This repo contains scripts to calculate exact Shapley value (in the `exact_sp.py`) and approximate Shapley value based on LSH (in the `LSH_sp.py`) for KNN classifier.
 
 We also provide two examples about how to calculate exact Shapley value (in the `exact_sp_example.py`) and approximate Shapley value (in the `LSH_sp_example.py`) on Cifar-10 dataset.
